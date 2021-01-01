@@ -1,6 +1,6 @@
 let leftPad;
 try {
-  leftPad = require("leftpad");
+  leftPad = require("left-pad");
 } catch (e) {}
 console.log("Hello");
 console.log(
